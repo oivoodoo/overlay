@@ -4,7 +4,7 @@
  */
 
 var Emitter = require('emitter')
-  , o = require('jquery');
+  , o = require('zepto');
 
 /**
  * Expose `overlay()`.
