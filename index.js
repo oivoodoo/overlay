@@ -4,7 +4,7 @@
  */
 
 var Emitter = require('emitter')
-  , o = require('zepto');
+  , o = require('zepto-component');
 
 /**
  * Expose `overlay()`.
